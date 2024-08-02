@@ -1,15 +1,35 @@
 # Digital Market
 
-Es una aplicación web de e-commerce diseñada para la empresa "Digital Market" que se especializa en ventas de productos tecnologicos. Este proyecto actualmente está en desarrollo y solo cuenta con el [Front End](https://tamii01.github.io/DigitalMarket-CaC). La plataforma tiene como objetivo proporcionar una experiencia de usuario fluida y atractiva, permitiendo a los clientes navegar, buscar y comprar de manera eficiente y segura. El diseño se centra en la usabilidad y accesibilidad, asegurando que los usuarios puedan encontrar fácilmente lo que buscan y realicen sus compras con confianza.
+It is an e-commerce web application designed for the company "Digital Market" that specializes in sales of technological products. This project is currently unfinished and only has the [Front End](https://tamii01.github.io/DigitalMarket-CaC). The platform aims to provide a seamless and engaging user experience, allowing customers to browse, search and purchase efficiently and securely. The design focuses on usability and accessibility, ensuring that users can easily find what they are looking for and make purchases with confidence.
 
-## Equipo de Desarrollo
+## Development team
 
 - **Lautaro Colella** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lautaro-colella/)
 - **Tamara Pucheta** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamara-pucheta/)
 - **Barbara Retondale** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbiretondale/)
 - **Mauro Caballero** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-caballero-671782a5/)
 
-## Tecnologías Utilizadas
+## Preview
+
+<details>
+	<summary>Screenshoots</summary>
+
+![Screenshoot of the project's index page](/assets/images/screenshoots/index1.png)
+![Screenshoot of the project's index page](/assets/images/screenshoots/index2.png)
+![Screenshoot of the project's category page](/assets/images/screenshoots/category.png)
+![Screenshoot of the project's product page](/assets/images/screenshoots/product1.png)
+![Screenshoot of the project's product page](/assets/images/screenshoots/product2.png)
+![Screenshoot of the project's contact page](/assets/images/screenshoots/contact.png)
+![Screenshoot of the project's figma design](/assets/images/screenshoots/figma1.png)
+![Screenshoot of the project's figma design](/assets/images/screenshoots/figma2.png)
+![Screenshoot of the project's figma design](/assets/images/screenshoots/figma3.png)
+![Screenshoot of the project's figma design](/assets/images/screenshoots/figma4.png)
+![Screenshoot of the project's figma design](/assets/images/screenshoots/figma5.png)
+![Screenshoot of the project's figma design](/assets/images/screenshoots/figma6.png)
+![Screenshoot of the project's figma design](/assets/images/screenshoots/figma7.png)
+</details>
+
+## Used technologies
 
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,33 +38,33 @@ Es una aplicación web de e-commerce diseñada para la empresa "Digital Market" 
 - ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 - ![OWL Carousel](https://img.shields.io/badge/OWL_Carousel-9B59B6?style=for-the-badge&logo=owlcarousel&logoColor=white)
 
-## Diseño del Proyecto
+## Project design
 
 ### Figma
 
-Puedes ver el diseño y prototipos del proyecto en:
-[Proyecto en Figma](https://www.figma.com/design/yxorc0i439v6PCfEOWzOtm/proyecto-codo-a-codo?node-id=0%3A1&t=4DAxIn7usVC3GJfJ-1)
+You can see the design and prototypes of the project at:
+[Figma Project](https://www.figma.com/design/yxorc0i439v6PCfEOWzOtm/proyecto-codo-a-codo?node-id=0%3A1&t=4DAxIn7usVC3GJfJ-1)
 
 ### Trello
 
-Puedes ver el seguimiento de tareas y flujo de trabajo del proyecto en:
-[Tablero en Trello](https://trello.com/b/RDptkNcD/digital-market)
+You can see the project's task and workflow tracking at:
+[Trello board](https://trello.com/b/RDptkNcD/digital-market)
 
-## Cómo Empezar
+## How to start
 
-Para clonar y ejecutar este proyecto, sigue estos pasos:
+To clone and run this project, follow these steps:
 
-1. Clona el repositorio
-`git clone https://github.com/Tamii01/DigitalMarket-CaC.git`
+1. Clone the repository
+`git clone https://github.com/LautaroColella/DigitalMarket.git`
 
-2. Navega al directorio del proyecto
+2. Navigate to the project directory
 `cd digital-market`
 
-3. Abre el archivo index.html en tu navegador para ver la aplicación.
+3. Open the index.html file in your browser to view the application.
 
-## Licencia
+## License
 
-Este proyecto está bajo la Licencia MIT.
+This project is licensed under the MIT License.
 
 ### Copyright 2024 Digital Market
 
